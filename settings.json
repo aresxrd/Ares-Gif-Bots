@@ -1,0 +1,36 @@
+{
+  "sahip": "SAHIP_ID",
+  "prefix": "BOT_PREFİX",
+  "token": "BOT_TOKEN",
+  "botDurum": "BOT_DURUM",
+  "guildID": "SUNUCU_ID",
+
+  "sunucuadı": "SUNUCU_ADI",
+  "kategoriler": ["KATEGORI_IDLER"],
+  "giflog": "GIFLOG_KANAL_İD",
+  "silinenmesajlog": "MESAJ_LOG_KANAL_İD",
+  "düzenlenenmesajlog": "MESAJ_LOG_KANAL_İD",
+  "banlog": "BAN_LOG_KANAL_İD",
+
+  "aresxrdrandompp": "RANDOM_PP_KANAL_İD",
+  "aresxrdrandomgif": "RANDOM_GİF_KANAL_İD",
+
+  "yetkilirole": [
+    "YETKİLİ_ROL_İD"
+  ],  
+  "otorol": "OTO_ROL_İD",
+  "viprole": "VİP_ROL_İD",
+
+  "mavirol": "MAVİ_ROL_İD",
+  "kırmızırol": "KIRMIZI_ROL_İD",
+  "sarırol": "SARI_ROL_İD",
+  "yesilrol": "YEŞİL_ROL_İD",
+  "siyahrol": "SİYAH_ROL_İD",
+
+  "banner": "BANNER_ROL_İD",
+  "nfsw": "NSFW_ROL_İD",
+
+  "greentik": "ONAY_EMOJİ",
+  "redcarpı": "RED_EMOJİ"
+
+}
